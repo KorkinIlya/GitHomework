@@ -1,4 +1,4 @@
 print("Hello world!")
 print("Enter two integers")
 a, b = map(int, input().split())
-print("Result of addition:", a+b)
+print("Result of substruction:", a-b)
