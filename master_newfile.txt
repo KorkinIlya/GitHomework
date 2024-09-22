@@ -1,2 +1,3 @@
 Master
 branch2 string
+branch2 second string
