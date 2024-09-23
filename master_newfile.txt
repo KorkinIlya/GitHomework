@@ -1,3 +1,8 @@
 Master
 master string
 master second string
+branch2 string
+branch3 string
+branch3 second string
+
+Branch2 first commit is here, second not
